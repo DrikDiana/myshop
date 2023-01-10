@@ -1,5 +1,4 @@
-# myshop
-laravel
+# myshop(laravel)
 
 ## Used technologies
 - MySQL
@@ -7,7 +6,7 @@ laravel
 - PHP, Laravel
 
 ## Installation
-- Git clone https://github.com/nadya-arinich/SHOP
+- Git clone https://github.com/DrikDiana/myshop.git
 - Сd laravel
 - Сomposer install
 - Cоздать БД
